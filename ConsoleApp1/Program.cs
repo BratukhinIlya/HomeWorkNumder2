@@ -13,7 +13,7 @@ namespace ConsoleApp1
 
         public Prepod(string Name, int Vuz)
         {
-            this.name = Name;
+            this.name = Namejhgkjhghg;
             this.vuz = Vuz;
         }
         public void Print1()
